@@ -2,11 +2,11 @@
 
 ## Overview of Election Audit
 The purpose of this project was to complete an audit of a recent local Colorado congressional election and generate a vote count report using Python. The tasks included:
-1. Calculating the total number of votes cast.
-2. Gathering a complete list of candidates who received votes.
-3. Calculaing the total number of votes each candidate received.
-4. Calculating the percentage of votes each candidate won.
-5. Determining the winner of the election based on popular vote. 
+- Calculating the total number of votes cast.
+- Gathering a complete list of candidates who received votes.
+- Calculaing the total number of votes each candidate received.
+- Calculating the percentage of votes each candidate won.
+- Determining the winner of the election based on popular vote. 
 
 ### The Data
 The results were gathered with three primary voting methods.
